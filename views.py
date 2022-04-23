@@ -13,8 +13,6 @@ from django.contrib.auth import authenticate
 #  first create endpoints for authenticated user
 
 """
-Now I will write two Classes to register the user
-Class 1:-----> with referal link 
 **When the user registers using the invite link, the link will be provided with a code
 **The code was previously recorded in Profile Class
 **Each user has his own code
